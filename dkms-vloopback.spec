@@ -13,7 +13,6 @@ URL: http://www.lavrsen.dk/twiki/bin/view/Motion/VideoFourLinuxLoopbackDevice
 Provides: %{module}
 Requires: dkms >= 1.00
 BuildArch: noarch
-BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root/
 
 %description
 The video4linux device is a driver that implements a video pipe using two
