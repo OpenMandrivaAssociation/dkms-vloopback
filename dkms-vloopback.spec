@@ -24,7 +24,8 @@ very nice and he decided to make something usefull of it. You can use this
 driver for looking at motion in realtime or for feeding a webcam while still
 securing your room.
 
-Note also that vloopback output can be used by several applications at the same time.
+Note also that vloopback output can be used by several applications at the same
+time.
 
 %prep
 %setup -n %{module}-%{version} -q
