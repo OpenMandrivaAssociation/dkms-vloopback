@@ -1,6 +1,6 @@
 %define module vloopback
 %define version 1.0
-%define release %mkrel 4
+%define release %mkrel 5
 
 Summary: Video4Linux Loopback Device
 Name: dkms-%{module}
