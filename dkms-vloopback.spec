@@ -9,7 +9,7 @@ Release: %{release}
 License: GPL
 Group: System/Kernel and hardware
 Source0: http://www.lavrsen.dk/twiki/pub/Motion/VideoFourLinuxLoopbackDevice/%{module}-%{version}.tar.bz2
-URL: http://www.lavrsen.dk/twiki/bin/view/Motion/VideoFourLinuxLoopbackDevice
+URL: https://www.lavrsen.dk/twiki/bin/view/Motion/VideoFourLinuxLoopbackDevice
 Provides: %{module}
 Requires: dkms >= 1.00
 BuildArch: noarch
